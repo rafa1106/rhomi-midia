@@ -1,0 +1,150 @@
+{
+ "p1124a_rhomi_01": [
+  "p01-abertura-luz-1920"
+ ],
+ "p1124a_rhomi_02": [
+  "h12-da-ideia-ao-produto-2560"
+ ],
+ "p1124a_rhomi_03": [
+  "p19-ecossistema-2560"
+ ],
+ "p1124a_rhomi_04": [
+  "o02-abertura-2560"
+ ],
+ "p1124a_rhomi_05": [
+  "e02-etapa-3-desenvolvimento"
+ ],
+ "p1124a_rhomi_06": [],
+ "p1124b_orbitacomet_01": [
+  "o02-abertura-2560"
+ ],
+ "p1124c_jornada_01": [
+  "p03-chegada-toque-2560"
+ ],
+ "p1124c_jornada_02": [
+  "p16-emissao-totem"
+ ],
+ "p1124c_jornada_03": [
+  "lp06"
+ ],
+ "p1124c_jornada_04": [
+  "p14-whatsapp-acompanhamento-nr004"
+ ],
+ "p1124c_jornada_05": [
+  "p07-chamada-2560"
+ ],
+ "p1124c_jornada_06": [
+  "p14-atendente-2-chamando-nr004"
+ ],
+ "p1124c_jornada_07": [
+  "p10-avaliacao-2560"
+ ],
+ "p1124c_jornada_08": [
+  "p11-gestao-foto-2560"
+ ],
+ "p1124c_jornada_09": [],
+ "p1124d_led_01": [
+  "lp07"
+ ],
+ "p1124e_emissao_01": [
+  "p16-emissao-totem",
+  "p16-emissao-computador",
+  "p16-emissao-maquina-portatil",
+  "p16-emissao-whatsapp"
+ ],
+ "p1124e_emissao_02": [
+  "p16-emissao-totem"
+ ],
+ "p1124e_emissao_03": [
+  "p16-emissao-computador"
+ ],
+ "p1124e_emissao_04": [
+  "p16-emissao-maquina-portatil"
+ ],
+ "p1124e_emissao_05": [
+  "p16-emissao-whatsapp"
+ ],
+ "p1124e_emissao_06": [],
+ "p1126_horizontal_01": [
+  "o15-horizontal-e-vertical-tela-desligada-1200"
+ ],
+ "p1127_sinais_01": [
+  "lp15"
+ ],
+ "p1127_sinais_02": [],
+ "p1127_sinais_03": [],
+ "p1127_sinais_04": [],
+ "p1127_sinais_05": [],
+ "p1127_sinais_06": [],
+ "p1127_sinais_07": [
+  "lp16"
+ ],
+ "p1127_sinais_08": [],
+ "p1201_chamada_01": [
+  "p07-chamada-2560"
+ ],
+ "p1201_chamada_02": [
+  "p07-chamada-antes-2560"
+ ],
+ "p1201_chamada_03": [
+  "p14-painel-tv-normal-cn023"
+ ],
+ "p1201_chamada_04": [
+  "if_painel-tv_lumivida_2-alerta-chamada-cn023"
+ ],
+ "p1201_chamada_05": [
+  "if_banner_lumivida-checkup"
+ ],
+ "p1201_chamada_06": [],
+ "p1203_frente_01": [
+  "frente_fila4"
+ ],
+ "p1203_frente_02": [
+  "frente_par_1"
+ ],
+ "p1203_frente_03": [
+  "frente_par_2"
+ ],
+ "p1203_frente_04": [
+  "frente_par_3"
+ ],
+ "p1203_frente_05": [
+  "o08-tela-touch-2560"
+ ],
+ "p1203_frente_06": [],
+ "p1204_clinica_01": [
+  "lp16"
+ ],
+ "p1204_clinica_02": [
+  "p14-totem-escolha-do-servico"
+ ],
+ "p1204_clinica_03": [
+  "p03-chegada-2560"
+ ],
+ "p1204_clinica_04": [
+  "p14-whatsapp-acompanhamento-nr004"
+ ],
+ "p1204_clinica_05": [
+  "p07-chamada-2560"
+ ],
+ "p1204_clinica_06": [
+  "p10-avaliacao-2560"
+ ],
+ "p1204_clinica_07": [],
+ "p1208_gestao_01": [
+  "p11-gestao-foto-2560"
+ ],
+ "p1208_gestao_02": [
+  "p14-gestao-1-visao-geral"
+ ],
+ "p1208_gestao_03": [
+  "p14-gestao-2-desempenho-atendentes"
+ ],
+ "p1208_gestao_04": [
+  "p14-gestao-3-relatorio-ia"
+ ],
+ "p1208_gestao_05": [
+  "p11-gestao-painel-1920"
+ ],
+ "p1208_gestao_06": []
+}

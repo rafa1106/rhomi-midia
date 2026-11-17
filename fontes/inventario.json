@@ -1,0 +1,1406 @@
+{
+ "a01-aplicacoes-abertura-2560": {
+  "arquivo": "a01-aplicacoes-abertura-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "a02-laboratorio-abertura-2560": {
+  "arquivo": "a02-laboratorio-abertura-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "a06-cartorio-cena-b": {
+  "arquivo": "a06-cartorio-cena-b.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "a08-ensino-cena": {
+  "arquivo": "a08-ensino-cena.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "adesivacao": {
+  "arquivo": "adesivacao.jpg",
+  "tela": "nao_usar",
+  "nota": "mockup antigo do folder: NÃO usar (usar frente_*)",
+  "usada_em": []
+ },
+ "e01-abertura-2560": {
+  "arquivo": "e01-abertura-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-1-entendimento": {
+  "arquivo": "e02-etapa-1-entendimento.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-1-esboco": {
+  "arquivo": "e02-etapa-1-esboco.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-2-concepcao": {
+  "arquivo": "e02-etapa-2-concepcao.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-2-esquema": {
+  "arquivo": "e02-etapa-2-esquema.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-3-desenvolvimento": {
+  "arquivo": "e02-etapa-3-desenvolvimento.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": [
+   "p1124a_rhomi"
+  ]
+ },
+ "e02-etapa-3-placa": {
+  "arquivo": "e02-etapa-3-placa.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-4-prototipo": {
+  "arquivo": "e02-etapa-4-prototipo.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e02-etapa-5-fabricacao": {
+  "arquivo": "e02-etapa-5-fabricacao.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-corte-de-chapa": {
+  "arquivo": "e05-corte-de-chapa.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-firmware": {
+  "arquivo": "e05-firmware.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-impressao-3d": {
+  "arquivo": "e05-impressao-3d.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-montagem": {
+  "arquivo": "e05-montagem.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-solda": {
+  "arquivo": "e05-solda.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e05-teste-de-telas": {
+  "arquivo": "e05-teste-de-telas.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "e06-fabricacao-linha-2560": {
+  "arquivo": "e06-fabricacao-linha-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": []
+ },
+ "frente_21-lumivida": {
+  "arquivo": "frente_21-lumivida.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_22-ourela": {
+  "arquivo": "frente_22-ourela.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_23-aguas-serenas": {
+  "arquivo": "frente_23-aguas-serenas.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_24-essenza": {
+  "arquivo": "frente_24-essenza.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_25-valoren": {
+  "arquivo": "frente_25-valoren.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_26-cartorio": {
+  "arquivo": "frente_26-cartorio.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_27-phila": {
+  "arquivo": "frente_27-phila.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_28-bem-vindo": {
+  "arquivo": "frente_28-bem-vindo.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "frente_fila4": {
+  "arquivo": "frente_fila4.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": [
+   "p1203_frente"
+  ]
+ },
+ "frente_par_1": {
+  "arquivo": "frente_par_1.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": [
+   "p1203_frente"
+  ]
+ },
+ "frente_par_2": {
+  "arquivo": "frente_par_2.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": [
+   "p1203_frente"
+  ]
+ },
+ "frente_par_3": {
+  "arquivo": "frente_par_3.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": [
+   "p1203_frente"
+  ]
+ },
+ "frente_par_4": {
+  "arquivo": "frente_par_4.jpg",
+  "tela": "ok",
+  "nota": "tela desligada (simulador, artes aprovadas)",
+  "usada_em": []
+ },
+ "h01-cartao-painel-tv": {
+  "arquivo": "h01-cartao-painel-tv.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h01-cartao-whatsapp": {
+  "arquivo": "h01-cartao-whatsapp.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h01-fundo-2560": {
+  "arquivo": "h01-fundo-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h01-totem-tela-preta": {
+  "arquivo": "h01-totem-tela-preta.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h01-totem": {
+  "arquivo": "h01-totem.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h03-abertura-2560": {
+  "arquivo": "h03-abertura-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h04-software-ao-equipamento-2560": {
+  "arquivo": "h04-software-ao-equipamento-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia",
+  "usada_em": []
+ },
+ "h06-jornada-1-chegada-2560": {
+  "arquivo": "h06-jornada-1-chegada-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h06-jornada-2-senha-2560": {
+  "arquivo": "h06-jornada-2-senha-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h06-jornada-3-chamada-2560": {
+  "arquivo": "h06-jornada-3-chamada-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h06-jornada-4-atendimento-1365": {
+  "arquivo": "h06-jornada-4-atendimento-1365.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h06-jornada-5-gestao-2560": {
+  "arquivo": "h06-jornada-5-gestao-2560.jpg",
+  "tela": "tela",
+  "nota": "home do site",
+  "usada_em": []
+ },
+ "h07-orbitacomet-destaque-2560": {
+  "arquivo": "h07-orbitacomet-destaque-2560.jpg",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "h08-close-led-2560": {
+  "arquivo": "h08-close-led-2560.jpg",
+  "tela": "tela",
+  "nota": "render, telas com interface",
+  "usada_em": []
+ },
+ "h08-close-senha-2560": {
+  "arquivo": "h08-close-senha-2560.jpg",
+  "tela": "ok",
+  "nota": "close da impressora",
+  "usada_em": []
+ },
+ "h08-close-tela-1x1": {
+  "arquivo": "h08-close-tela-1x1.jpg",
+  "tela": "tela",
+  "nota": "close da tela com interface",
+  "usada_em": []
+ },
+ "h08-close-tela-2560": {
+  "arquivo": "h08-close-tela-2560.jpg",
+  "tela": "tela",
+  "nota": "close da tela com interface",
+  "usada_em": []
+ },
+ "h09-segmento-banco-3x2-1500": {
+  "arquivo": "h09-segmento-banco-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-banco-3x2-900": {
+  "arquivo": "h09-segmento-banco-3x2-900.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-banco-4x5-1200": {
+  "arquivo": "h09-segmento-banco-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-cartorio-3x2-1500": {
+  "arquivo": "h09-segmento-cartorio-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-cartorio-3x2-900": {
+  "arquivo": "h09-segmento-cartorio-3x2-900.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-cartorio-4x5-1200": {
+  "arquivo": "h09-segmento-cartorio-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-clinica-3x2-1500": {
+  "arquivo": "h09-segmento-clinica-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-clinica-3x2-900": {
+  "arquivo": "h09-segmento-clinica-3x2-900.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-clinica-4x5-1200": {
+  "arquivo": "h09-segmento-clinica-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-orgao-publico-3x2-1500": {
+  "arquivo": "h09-segmento-orgao-publico-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-orgao-publico-3x2-900": {
+  "arquivo": "h09-segmento-orgao-publico-3x2-900.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h09-segmento-orgao-publico-4x5-1200": {
+  "arquivo": "h09-segmento-orgao-publico-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "h10-segmento-laboratorio-3x2-1500": {
+  "arquivo": "h10-segmento-laboratorio-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "h10-segmento-laboratorio-4x5-1200": {
+  "arquivo": "h10-segmento-laboratorio-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "h11-segmento-ensino-3x2-1500": {
+  "arquivo": "h11-segmento-ensino-3x2-1500.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "h11-segmento-ensino-3x2-900": {
+  "arquivo": "h11-segmento-ensino-3x2-900.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "h11-segmento-ensino-4x5-1200": {
+  "arquivo": "h11-segmento-ensino-4x5-1200.jpg",
+  "tela": "ia",
+  "nota": "foto IA",
+  "usada_em": []
+ },
+ "h12-da-ideia-ao-produto-2560": {
+  "arquivo": "h12-da-ideia-ao-produto-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA de engenharia, sem totem",
+  "usada_em": [
+   "p1124a_rhomi"
+  ]
+ },
+ "h16-chamada-final-2560": {
+  "arquivo": "h16-chamada-final-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada",
+  "usada_em": []
+ },
+ "if_attend_celular_1-chamando-claro": {
+  "arquivo": "if_attend_celular_1-chamando-claro.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_attend_celular_2-chamando-escuro": {
+  "arquivo": "if_attend_celular_2-chamando-escuro.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_attend_celular_3-em-atendimento-escuro": {
+  "arquivo": "if_attend_celular_3-em-atendimento-escuro.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_banner_lumivida-checkup": {
+  "arquivo": "if_banner_lumivida-checkup.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1201_chamada"
+  ]
+ },
+ "if_ies-web_navegador_1-servicos": {
+  "arquivo": "if_ies-web_navegador_1-servicos.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_ies-web_navegador_2-senha-criada": {
+  "arquivo": "if_ies-web_navegador_2-senha-criada.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_painel-tv_lumivida_1-cn023": {
+  "arquivo": "if_painel-tv_lumivida_1-cn023.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_painel-tv_lumivida_2-alerta-chamada-cn023": {
+  "arquivo": "if_painel-tv_lumivida_2-alerta-chamada-cn023.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1201_chamada"
+  ]
+ },
+ "if_pca_painel-atendente_1-pronto": {
+  "arquivo": "if_pca_painel-atendente_1-pronto.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_pca_painel-atendente_2-chamando-cn023": {
+  "arquivo": "if_pca_painel-atendente_2-chamando-cn023.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_pca_painel-atendente_3-em-atendimento": {
+  "arquivo": "if_pca_painel-atendente_3-em-atendimento.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_senha_impressa_cn023-lumivida": {
+  "arquivo": "if_senha_impressa_cn023-lumivida.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_sgf_gestao_1-visao-geral": {
+  "arquivo": "if_sgf_gestao_1-visao-geral.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_sgf_gestao_2-desempenho-atendentes": {
+  "arquivo": "if_sgf_gestao_2-desempenho-atendentes.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_sgf_gestao_3-relatorio-inteligente-ia": {
+  "arquivo": "if_sgf_gestao_3-relatorio-inteligente-ia.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_whatsapp_conversa_1": {
+  "arquivo": "if_whatsapp_conversa_1.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_whatsapp_conversa_2": {
+  "arquivo": "if_whatsapp_conversa_2.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "if_whatsapp_conversa_3": {
+  "arquivo": "if_whatsapp_conversa_3.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "lp01": {
+  "arquivo": "lp01.jpg",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "lp01b": {
+  "arquivo": "lp01b.jpg",
+  "tela": "ok",
+  "nota": "render, tela desligada",
+  "usada_em": []
+ },
+ "lp02": {
+  "arquivo": "lp02.png",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "lp02b": {
+  "arquivo": "lp02b.png",
+  "tela": "ok",
+  "nota": "render recorte, tela desligada",
+  "usada_em": []
+ },
+ "lp03": {
+  "arquivo": "lp03.png",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "lp03b": {
+  "arquivo": "lp03b.png",
+  "tela": "ok",
+  "nota": "render recorte, tela desligada",
+  "usada_em": []
+ },
+ "lp04": {
+  "arquivo": "lp04.jpg",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "lp04b": {
+  "arquivo": "lp04b.jpg",
+  "tela": "ok",
+  "nota": "render, tela desligada",
+  "usada_em": []
+ },
+ "lp05": {
+  "arquivo": "lp05.jpg",
+  "tela": "tela",
+  "nota": "close da tela com interface",
+  "usada_em": []
+ },
+ "lp06": {
+  "arquivo": "lp06.jpg",
+  "tela": "ok",
+  "nota": "close da impressora",
+  "usada_em": [
+   "p1124c_jornada"
+  ]
+ },
+ "lp07": {
+  "arquivo": "lp07.jpg",
+  "tela": "tela",
+  "nota": "render, 4 telas com interface",
+  "usada_em": [
+   "p1124d_led"
+  ]
+ },
+ "lp08": {
+  "arquivo": "lp08.jpg",
+  "tela": "nao_usar",
+  "nota": "tela COM interface: NÃO usar para horizontal/vertical",
+  "usada_em": []
+ },
+ "lp09": {
+  "arquivo": "lp09.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela composta",
+  "usada_em": []
+ },
+ "lp10": {
+  "arquivo": "lp10.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp11": {
+  "arquivo": "lp11.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp12": {
+  "arquivo": "lp12.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp13": {
+  "arquivo": "lp13.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp14": {
+  "arquivo": "lp14.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp15": {
+  "arquivo": "lp15.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": [
+   "p1127_sinais"
+  ]
+ },
+ "lp16": {
+  "arquivo": "lp16.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": [
+   "p1127_sinais",
+   "p1204_clinica"
+  ]
+ },
+ "lp17": {
+  "arquivo": "lp17.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp18": {
+  "arquivo": "lp18.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp19": {
+  "arquivo": "lp19.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela do totem gerada pela IA",
+  "usada_em": []
+ },
+ "lp20": {
+  "arquivo": "lp20.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o02-abertura-2560": {
+  "arquivo": "o02-abertura-2560.jpg",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": [
+   "p1124a_rhomi",
+   "p1124b_orbitacomet"
+  ]
+ },
+ "o02-abertura-tela-preta-2560": {
+  "arquivo": "o02-abertura-tela-preta-2560.jpg",
+  "tela": "ok",
+  "nota": "render, tela desligada",
+  "usada_em": []
+ },
+ "o05-ambiente-1-clinica-2560": {
+  "arquivo": "o05-ambiente-1-clinica-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-1-clinica-led-ciano-2560": {
+  "arquivo": "o05-ambiente-1-clinica-led-ciano-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-2-saguao-2560": {
+  "arquivo": "o05-ambiente-2-saguao-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-3-atendimento-2560": {
+  "arquivo": "o05-ambiente-3-atendimento-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-3-atendimento-led-dourado-2560": {
+  "arquivo": "o05-ambiente-3-atendimento-led-dourado-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-4-salao-2560": {
+  "arquivo": "o05-ambiente-4-salao-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-4-salao-led-azul-2560": {
+  "arquivo": "o05-ambiente-4-salao-led-azul-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-5-banco-2560": {
+  "arquivo": "o05-ambiente-5-banco-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-5-banco-led-ambar-2560": {
+  "arquivo": "o05-ambiente-5-banco-led-ambar-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-6-cartorio-2560": {
+  "arquivo": "o05-ambiente-6-cartorio-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-7-orgao-publico-2560": {
+  "arquivo": "o05-ambiente-7-orgao-publico-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o05-ambiente-7-orgao-publico-led-azul-2560": {
+  "arquivo": "o05-ambiente-7-orgao-publico-led-azul-2560.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela gerada pela IA",
+  "usada_em": []
+ },
+ "o08-tela-touch-2560": {
+  "arquivo": "o08-tela-touch-2560.jpg",
+  "tela": "tela",
+  "nota": "close da tela com interface",
+  "usada_em": [
+   "p1203_frente"
+  ]
+ },
+ "o11-caracteristica-1-tela-touch-1440": {
+  "arquivo": "o11-caracteristica-1-tela-touch-1440.jpg",
+  "tela": "ia",
+  "nota": "sem classificação: olhar antes de usar",
+  "usada_em": []
+ },
+ "o12-sim-base-1920": {
+  "arquivo": "o12-sim-base-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-led-luz-1920": {
+  "arquivo": "o12-sim-led-luz-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-combo-07-h06-ambar-1920": {
+  "arquivo": "o12-sim-previa-combo-07-h06-ambar-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-ambar-1920": {
+  "arquivo": "o12-sim-previa-led-ambar-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-apagado-1920": {
+  "arquivo": "o12-sim-previa-led-apagado-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-azul-1920": {
+  "arquivo": "o12-sim-previa-led-azul-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-branco-1920": {
+  "arquivo": "o12-sim-previa-led-branco-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-turquesa-1920": {
+  "arquivo": "o12-sim-previa-led-turquesa-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-verde-1920": {
+  "arquivo": "o12-sim-previa-led-verde-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-vermelho-1920": {
+  "arquivo": "o12-sim-previa-led-vermelho-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o12-sim-previa-led-violeta-1920": {
+  "arquivo": "o12-sim-previa-led-violeta-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o13-sim-frente-01-orbita-noturna-1920": {
+  "arquivo": "o13-sim-frente-01-orbita-noturna-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-09-executivo-cartorio-1920": {
+  "arquivo": "o13-sim-frente-09-executivo-cartorio-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-11-vidro-indigo-1920": {
+  "arquivo": "o13-sim-frente-11-vidro-indigo-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-21-lumivida-1920": {
+  "arquivo": "o13-sim-frente-21-lumivida-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-22-ourela-1920": {
+  "arquivo": "o13-sim-frente-22-ourela-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-23-aguas-serenas-1920": {
+  "arquivo": "o13-sim-frente-23-aguas-serenas-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-24-essenza-1920": {
+  "arquivo": "o13-sim-frente-24-essenza-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-25-valoren-1920": {
+  "arquivo": "o13-sim-frente-25-valoren-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-26-cartorio-1920": {
+  "arquivo": "o13-sim-frente-26-cartorio-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-frente-27-phila-1920": {
+  "arquivo": "o13-sim-frente-27-phila-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-01-orbita-noturna-1920": {
+  "arquivo": "o13-sim-previa-frente-01-orbita-noturna-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-07-ondas-clinicas-1920": {
+  "arquivo": "o13-sim-previa-frente-07-ondas-clinicas-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-08-preto-tipografico-1920": {
+  "arquivo": "o13-sim-previa-frente-08-preto-tipografico-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-09-executivo-cartorio-1920": {
+  "arquivo": "o13-sim-previa-frente-09-executivo-cartorio-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-11-vidro-indigo-1920": {
+  "arquivo": "o13-sim-previa-frente-11-vidro-indigo-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-13-ondas-agua-1920": {
+  "arquivo": "o13-sim-previa-frente-13-ondas-agua-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-16-coral-suave-1920": {
+  "arquivo": "o13-sim-previa-frente-16-coral-suave-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o13-sim-previa-frente-18-faixa-diagonal-1920": {
+  "arquivo": "o13-sim-previa-frente-18-faixa-diagonal-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada/prévia antiga do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o14-sim-previa-tela-boas-vindas-1920": {
+  "arquivo": "o14-sim-previa-tela-boas-vindas-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o14-sim-previa-tela-menu-servicos-1920": {
+  "arquivo": "o14-sim-previa-tela-menu-servicos-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o14-sim-previa-tela-nutricao-h06-1920": {
+  "arquivo": "o14-sim-previa-tela-nutricao-h06-1920.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar direto",
+  "usada_em": []
+ },
+ "o15-horizontal-e-vertical-1200": {
+  "arquivo": "o15-horizontal-e-vertical-1200.jpg",
+  "tela": "nao_usar",
+  "nota": "tela COM interface: NÃO usar para horizontal/vertical",
+  "usada_em": []
+ },
+ "o15-horizontal-e-vertical-ourela-1200": {
+  "arquivo": "o15-horizontal-e-vertical-ourela-1200.jpg",
+  "tela": "nao_usar",
+  "nota": "tela COM interface: NÃO usar para horizontal/vertical",
+  "usada_em": []
+ },
+ "o15-horizontal-e-vertical-tela-desligada-1200": {
+  "arquivo": "o15-horizontal-e-vertical-tela-desligada-1200.jpg",
+  "tela": "ok",
+  "nota": "tela desligada",
+  "usada_em": [
+   "p1126_horizontal"
+  ]
+ },
+ "o15-horizontal-e-vertical-valoren-1200": {
+  "arquivo": "o15-horizontal-e-vertical-valoren-1200.jpg",
+  "tela": "nao_usar",
+  "nota": "tela COM interface: NÃO usar para horizontal/vertical",
+  "usada_em": []
+ },
+ "o15-vertical-essenza-recorte-1200": {
+  "arquivo": "o15-vertical-essenza-recorte-1200.png",
+  "tela": "nao_usar",
+  "nota": "tela COM interface: NÃO usar para horizontal/vertical",
+  "usada_em": []
+ },
+ "o16-sim-frente-01-orbita-noturna-864": {
+  "arquivo": "o16-sim-frente-01-orbita-noturna-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-09-executivo-cartorio-864": {
+  "arquivo": "o16-sim-frente-09-executivo-cartorio-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-11-vidro-indigo-864": {
+  "arquivo": "o16-sim-frente-11-vidro-indigo-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-21-lumivida-864": {
+  "arquivo": "o16-sim-frente-21-lumivida-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-22-ourela-864": {
+  "arquivo": "o16-sim-frente-22-ourela-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-23-aguas-serenas-864": {
+  "arquivo": "o16-sim-frente-23-aguas-serenas-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-24-essenza-864": {
+  "arquivo": "o16-sim-frente-24-essenza-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-25-valoren-864": {
+  "arquivo": "o16-sim-frente-25-valoren-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-frente-26-cartorio-864": {
+  "arquivo": "o16-sim-frente-26-cartorio-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-led-luz-864": {
+  "arquivo": "o16-sim-led-luz-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-previa-combo-07-h06-ambar-864": {
+  "arquivo": "o16-sim-previa-combo-07-h06-ambar-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-previa-frente-01-orbita-noturna-864": {
+  "arquivo": "o16-sim-previa-frente-01-orbita-noturna-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-previa-frente-07-ondas-clinicas-864": {
+  "arquivo": "o16-sim-previa-frente-07-ondas-clinicas-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-previa-frente-11-vidro-indigo-864": {
+  "arquivo": "o16-sim-previa-frente-11-vidro-indigo-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o16-sim-previa-frente-18-faixa-diagonal-864": {
+  "arquivo": "o16-sim-previa-frente-18-faixa-diagonal-864.jpg",
+  "tela": "nao_usar",
+  "nota": "camada do simulador: NÃO usar",
+  "usada_em": []
+ },
+ "o22-fundo-chamada-2560": {
+  "arquivo": "o22-fundo-chamada-2560.jpg",
+  "tela": "tela",
+  "nota": "render, tela com interface",
+  "usada_em": []
+ },
+ "p01-abertura-luz-1920": {
+  "arquivo": "p01-abertura-luz-1920.jpg",
+  "tela": "ok",
+  "nota": "render, tela desligada",
+  "usada_em": [
+   "p1124a_rhomi"
+  ]
+ },
+ "p03-chegada-2560": {
+  "arquivo": "p03-chegada-2560.jpg",
+  "tela": "tela",
+  "nota": "foto IA, interface H06 composta",
+  "usada_em": [
+   "p1204_clinica"
+  ]
+ },
+ "p03-chegada-toque-2560": {
+  "arquivo": "p03-chegada-toque-2560.jpg",
+  "tela": "tela",
+  "nota": "foto IA, interface H06 composta",
+  "usada_em": [
+   "p1124c_jornada"
+  ]
+ },
+ "p04-senha-impressa-2560": {
+  "arquivo": "p04-senha-impressa-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p04-senha-tela-2560": {
+  "arquivo": "p04-senha-tela-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p06-comunicacao-foto-2560": {
+  "arquivo": "p06-comunicacao-foto-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p07-chamada-2560": {
+  "arquivo": "p07-chamada-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1124c_jornada",
+   "p1201_chamada",
+   "p1204_clinica"
+  ]
+ },
+ "p07-chamada-antes-2560": {
+  "arquivo": "p07-chamada-antes-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1201_chamada"
+  ]
+ },
+ "p09-atendimento-1920": {
+  "arquivo": "p09-atendimento-1920.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p10-avaliacao-2560": {
+  "arquivo": "p10-avaliacao-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1124c_jornada",
+   "p1204_clinica"
+  ]
+ },
+ "p10-avaliacao-alternativa-lp13-2560": {
+  "arquivo": "p10-avaliacao-alternativa-lp13-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p11-gestao-foto-2560": {
+  "arquivo": "p11-gestao-foto-2560.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1124c_jornada",
+   "p1208_gestao"
+  ]
+ },
+ "p11-gestao-painel-1920": {
+  "arquivo": "p11-gestao-painel-1920.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1208_gestao"
+  ]
+ },
+ "p11-gestao-relatorio-ia-1920": {
+  "arquivo": "p11-gestao-relatorio-ia-1920.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p11-gestao-visao-geral-1920": {
+  "arquivo": "p11-gestao-visao-geral-1920.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p14-atendente-1-pronto": {
+  "arquivo": "p14-atendente-1-pronto.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-atendente-2-chamando-nr004": {
+  "arquivo": "p14-atendente-2-chamando-nr004.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1124c_jornada"
+  ]
+ },
+ "p14-atendente-3-em-atendimento-nr004": {
+  "arquivo": "p14-atendente-3-em-atendimento-nr004.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-gestao-1-visao-geral": {
+  "arquivo": "p14-gestao-1-visao-geral.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1208_gestao"
+  ]
+ },
+ "p14-gestao-2-desempenho-atendentes": {
+  "arquivo": "p14-gestao-2-desempenho-atendentes.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1208_gestao"
+  ]
+ },
+ "p14-gestao-3-relatorio-ia": {
+  "arquivo": "p14-gestao-3-relatorio-ia.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1208_gestao"
+  ]
+ },
+ "p14-navegador-1-servico": {
+  "arquivo": "p14-navegador-1-servico.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-navegador-2-tipo": {
+  "arquivo": "p14-navegador-2-tipo.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-navegador-3-senha-criada": {
+  "arquivo": "p14-navegador-3-senha-criada.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-painel-tv-chamada-nr004": {
+  "arquivo": "p14-painel-tv-chamada-nr004.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-painel-tv-normal-cn023": {
+  "arquivo": "p14-painel-tv-normal-cn023.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1201_chamada"
+  ]
+ },
+ "p14-senha-impressa-nr004": {
+  "arquivo": "p14-senha-impressa-nr004.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-totem-escolha-do-servico": {
+  "arquivo": "p14-totem-escolha-do-servico.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1204_clinica"
+  ]
+ },
+ "p14-whatsapp-acompanhamento-cn023": {
+  "arquivo": "p14-whatsapp-acompanhamento-cn023.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p14-whatsapp-acompanhamento-nr004": {
+  "arquivo": "p14-whatsapp-acompanhamento-nr004.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": [
+   "p1124c_jornada",
+   "p1204_clinica"
+  ]
+ },
+ "p14-whatsapp-emissao-en049": {
+  "arquivo": "p14-whatsapp-emissao-en049.jpg",
+  "tela": "ok",
+  "nota": "captura de tela real do PHILA (dados fictícios Lumivida)",
+  "usada_em": []
+ },
+ "p15-pilar-experiencia-1800": {
+  "arquivo": "p15-pilar-experiencia-1800.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p15-pilar-inteligencia-1800": {
+  "arquivo": "p15-pilar-inteligencia-1800.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p15-pilar-organizacao-1800": {
+  "arquivo": "p15-pilar-organizacao-1800.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": []
+ },
+ "p16-emissao-computador": {
+  "arquivo": "p16-emissao-computador.jpg",
+  "tela": "ia",
+  "nota": "foto IA, totem pequeno ao fundo",
+  "usada_em": [
+   "p1124e_emissao"
+  ]
+ },
+ "p16-emissao-maquina-portatil": {
+  "arquivo": "p16-emissao-maquina-portatil.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1124e_emissao"
+  ]
+ },
+ "p16-emissao-totem": {
+  "arquivo": "p16-emissao-totem.jpg",
+  "tela": "ia",
+  "nota": "foto IA, tela com interface",
+  "usada_em": [
+   "p1124c_jornada",
+   "p1124e_emissao"
+  ]
+ },
+ "p16-emissao-whatsapp": {
+  "arquivo": "p16-emissao-whatsapp.jpg",
+  "tela": "ok",
+  "nota": "foto IA, sem tela de totem em destaque",
+  "usada_em": [
+   "p1124e_emissao"
+  ]
+ },
+ "p19-ecossistema-2560": {
+  "arquivo": "p19-ecossistema-2560.jpg",
+  "tela": "tela",
+  "nota": "composição com interfaces reais",
+  "usada_em": [
+   "p1124a_rhomi"
+  ]
+ },
+ "p20-experimentacao-2560": {
+  "arquivo": "p20-experimentacao-2560.jpg",
+  "tela": "nao_usar",
+  "nota": "miniatura de vídeo: NÃO usar",
+  "usada_em": []
+ }
+}
