@@ -9,8 +9,7 @@ Fale com a gente no WhatsApp: link na bio.
 
 Imagens ilustrativas.
 
-#gestaodefilas #paineldesenhas #salaDeEspera #experienciadocliente #phila"""
-LEGENDA = LEGENDA.replace("#salaDeEspera", "#saladeespera")
+#gestaodefilas #paineldesenhas #saladeespera #experienciadocliente #phila"""
 
 S = [
     capa_foto("p07-chamada-2560", "PHILA · Chamada", "A chamada que<br>o cliente <em>vê e ouve.</em>", "", pos="62% 40%", phila=True),
