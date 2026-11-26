@@ -149,5 +149,27 @@
  "p1208_gestao_06": [],
  "p0101y_teste_01": [
   "o15-horizontal-e-vertical-tela-desligada-1200"
- ]
+ ],
+ "p1210_impressora_01": [
+  "h08-close-senha-2560"
+ ],
+ "p1211_engenharia_01": [
+  "e01-abertura-2560"
+ ],
+ "p1211_engenharia_02": [
+  "e02-etapa-1-entendimento"
+ ],
+ "p1211_engenharia_03": [
+  "e02-etapa-2-esquema"
+ ],
+ "p1211_engenharia_04": [
+  "e02-etapa-3-placa"
+ ],
+ "p1211_engenharia_05": [
+  "e02-etapa-4-prototipo"
+ ],
+ "p1211_engenharia_06": [
+  "e02-etapa-5-fabricacao"
+ ],
+ "p1211_engenharia_07": []
 }
